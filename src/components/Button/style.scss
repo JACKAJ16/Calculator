@@ -1,0 +1,23 @@
+.button {
+  width: 65px;
+  height: 65px;
+  border: 1px solid black;
+  background: #fff;
+  cursor: pointer;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  &.result {
+    width: 153px;
+    background: #ff9900;
+  }
+  &.clear {
+    background: #cccccc;
+  }
+  &.delete {
+    background: #fff url(../../assets/images/icon-delete.svg) no-repeat center;
+  }
+  &.operator {
+    border-color: #ff9900;
+  }
+}
