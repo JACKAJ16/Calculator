@@ -1,5 +1,7 @@
 Calculator app
 
+Demo: https://jackaj16.github.io/Calculator/
+
 ### `How to start this app on your computer`
 
 - Clone or download directory
